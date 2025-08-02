@@ -2,6 +2,9 @@
 
 This project is a 3D model of a robotic arm with 5 Degrees of Freedom (DOF), designed using Onshape. It is intended for educational, prototyping, or simulation purposes.
 
+##The project link
+(https://cad.onshape.com/documents/ea1968bf1f93a7b7128dfc4e/w/ed606135b0eac99c5626c661/e/9ea1401845a2349fb8ab942e)
+
 ## Overview
 
 The robotic arm consists of 5 independent joints, allowing motion in five axes. The structure includes a fixed base and multiple links connected via rotational joints (revolute mates in Onshape).
